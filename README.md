@@ -1,4 +1,5 @@
 # Embedchain Telegram Bot Template
+This is a replit template to create your own telegram bot using the embedchain package.
 
 ## Template Setup
 - Fork this replit template.
@@ -11,7 +12,7 @@
 - Click on `Run` in the replit container and a URL will get generated for your bot.
 - Now set your webhook by running the following link in your browser:
 ```url
-https://api.telegram.org/bot<Your_Bot_Token_Value>/setWebhook?url=<Replit_generated_URL>
+https://api.telegram.org/bot<Your_Telegram_Bot_Token>/setWebhook?url=<Replit_Generated_URL>
 ```
 - When you get a successful response in your browser, your bot is ready to be used.
 
